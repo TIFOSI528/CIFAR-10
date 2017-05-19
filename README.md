@@ -7,7 +7,11 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class. 
 
 Here are the classes in the dataset, as well as 10 random images from each:
+<<<<<<< Updated upstream
 ![](file:///Users/tifosi/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-05-19%20%E4%B8%8B%E5%8D%882.54.06.png)
+=======
+![cifar](file:///Users/tifosi/Desktop/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-05-19%20%E4%B8%8B%E5%8D%882.54.06.png)
+>>>>>>> Stashed changes
 
 
 
@@ -27,6 +31,9 @@ Here are the classes in the dataset, as well as 10 random images from each:
 
 
 
+
+
+Reference
 
 * Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
 
