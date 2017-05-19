@@ -1,12 +1,10 @@
 # CIFAR-10
 
-The CIFAR-10 and CIFAR-100 are labeled subsets of the 80 million tiny images dataset. They were collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton.
+CIFAR是一个影响力很大的图像分类数据集，分为了CIFAR-10 和CIFAR-100 两个问题，其中的图片是由Alex Krizhevsky, Vinod Nair和Geoffrey Hinton收集的。
 
-The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. 
+CIFAR-10包含了来自10个不同种类，总共60,000张32x32的彩色图片，每一类含有6000张图片。进一步地，其中50,000张为训练图片，剩余的10,000张为测试图片。
 
-The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class. 
-
-Here are the classes in the dataset, as well as 10 random images from each:
+下面是数据集中的样例图片：
 
 <img width="500" height="400" src="https://github.com/TIFOSI528/CIFAR-10/raw/master/raw/2017-05-19.png"/>
 
