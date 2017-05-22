@@ -24,9 +24,9 @@ CIFAR-10包含了来自10个不同种类，总共60,000张32x32的彩色图片�
 
 下面是模型训练过程中accuracy和loss的变化情况：
 	
-<img width="350" height="300" src="https://github.com/TIFOSI528/CIFAR-10/raw/master/raw/accuracy.png"/>
+<img width="400" height="300" src="https://github.com/TIFOSI528/CIFAR-10/raw/master/raw/accuracy.png"/>
 
-<img width="350" height="300" src="https://github.com/TIFOSI528/CIFAR-10/raw/master/raw/loss.png"/>
+<img width="400" height="300" src="https://github.com/TIFOSI528/CIFAR-10/raw/master/raw/loss.png"/>
 
 可以看到，模型在训练后期出现了过拟合，还需要进一步改进。
 
