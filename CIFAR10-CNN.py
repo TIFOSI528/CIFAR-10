@@ -12,7 +12,7 @@ from keras.datasets import cifar10
 # load data
 (X_train, Y_train), (X_test, Y_test) = cifar10.load_data()
 ​
-
+# change to 'float32' type, and set the pixel value to 0~1
 X_train = X_train.astype('float32') 
 X_test = X_test.astype('float32')
 X_train /= 255  
