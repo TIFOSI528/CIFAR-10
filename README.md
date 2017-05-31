@@ -47,7 +47,7 @@ CIFAR-10包含了来自10个不同种类，总共60,000张32x32的彩色图片�
 
 
 
-Reference
+### Reference
 
 * Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
 
