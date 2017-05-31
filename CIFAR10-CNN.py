@@ -9,8 +9,10 @@ import h5py
 from keras.utils import np_utils
 from keras.datasets import cifar10
 ​
+# load data
 (X_train, Y_train), (X_test, Y_test) = cifar10.load_data()
 ​
+
 X_train = X_train.astype('float32') 
 X_test = X_test.astype('float32')
 X_train /= 255  
